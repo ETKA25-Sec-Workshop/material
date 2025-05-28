@@ -19,8 +19,8 @@ weight: 10
 
 #### XSS Prevention
 - [XSS Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
-- [XSS Filter evasion](https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html)
-
+- [XSS Filter evasion](https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html)  
+- [OWASP Cheat sheet Content Security policy](https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html)
 #### SQL Prevention
 - [XKCD BobbyTables](https://xkcd.com/327/)
 - [Bobby Tables: A guide to preventing SQL injection](https://bobby-tables.com/)

@@ -1,6 +1,6 @@
 ---
 title: Secure Coding
-author: Secorvo Security Consulting GmbH
+author: Secorvo Security Consulting GmbH / andrena objects ag
 weight: 10
 ---
 
@@ -13,7 +13,22 @@ weight: 10
 - [Bitbucket: Version Control Software](https://bitbucket.org/product/de/version-control-software)
 - [Atlassian: What is Version Control](https://www.atlassian.com/de/git/tutorials/what-is-version-control)
 
+### Spezifische Sicherheitslücken und ihre Behebung
+- [CWEs](https://cwe.mitre.org/)
+- [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html)
+
+#### XSS Prevention
+- [XSS Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+- [XSS Filter evasion](https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html)
+
+#### SQL Prevention
+
+- [Bobby Tables: A guide to preventing SQL injection](https://bobby-tables.com/)
+- [Balding SQL Injection guide](https://www.baeldung.com/sql-injection)
+- [SQL Injection Prevention](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+
 ### Secure Implementation
+- [OWASP Developer Guide](https://owasp.org/www-project-developer-guide/release/)
 
 - [OWASP based Secure Coding Practices Checklist](https://github.com/Hari-prasaanth/Checklist/blob/main/Secure-Coding-Practices/Secure-Coding-Practices.md)
 - [Secure Coding Top 10 2017 erläutert - Geballte Sicherheit](https://geballte-sicherheit.de/secure-coding/)
@@ -25,10 +40,11 @@ weight: 10
 - [MISRA Secure Coding](https://misra.org.uk/publications/)
 - [The Case for Memory Safe Roadmaps](https://media.defense.gov/2023/Dec/06/2003352724/-1/-1/0/THE-CASE-FOR-MEMORY-SAFE-ROADMAPS-TLP-CLEAR.PDF)
 - [.NET Secure Coding Guidelines](https://learn.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines)
-- [Bobby Tables: A guide to preventing SQL injection](https://bobby-tables.com/)
+
 
 ### Interne Code Reviews
 
+- [OWASP Code Review Guide](https://owasp.org/www-project-code-review-guide/)
 - [Secure development and deployment guidance - Produce clean & maintainable code](https://www.ncsc.gov.uk/collection/developers-collection/principles/produce-clean-maintainable-code)
 - [GitHub Review Practices](https://google.github.io/eng-practices/review/reviewer/)
 - [10 Best Practices für Code-Reviews, die Spaß machen - itemis](https://blogs.itemis.com/10-best-practices-fuer-code-reviews-die-spass-machen)
@@ -53,6 +69,7 @@ weight: 10
 
 ## Bücher
 
+- Johnson, D. B. & Daniel Deogun, D. & Sawano, D. (2019): *Security by Design* , Manning
 - Viega, J. & McGraw, G. (2002). *Building secure software: How to Avoid Security Problems the Right Way*. Addison-Wesley Professional.
 - Graff, M., & Van Wyk, K. R. (2003). *Secure Coding: Principles and Practices.* “O’Reilly Media, Inc.”
 - Howard, M., & LeBlanc, D. (2003). *Writing secure code.* Second Edition. Pearson Education.

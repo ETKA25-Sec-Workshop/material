@@ -22,9 +22,9 @@ weight: 10
 - [XSS Filter evasion](https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html)
 
 #### SQL Prevention
-
+- [XKCD BobbyTables](https://xkcd.com/327/)
 - [Bobby Tables: A guide to preventing SQL injection](https://bobby-tables.com/)
-- [Balding SQL Injection guide](https://www.baeldung.com/sql-injection)
+- [Baldung SQL Injection guide](https://www.baeldung.com/sql-injection)
 - [SQL Injection Prevention](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
 
 ### Secure Implementation
@@ -81,6 +81,7 @@ weight: 10
 
 ## Übungen
 
+- [Unser Newsshop](https://github.com/andrena/newsshop)
 - [LearnGitBranching](https://learngitbranching.js.org/?locale=de_DE)
 - [OWASP Juicy Shop - Coding Challenges](https://owasp.org/www-project-juice-shop/ )
 - [OWASP Secure Coding Dojo](https://owasp.org/www-project-secure-coding-dojo/)

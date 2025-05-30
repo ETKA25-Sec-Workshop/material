@@ -57,7 +57,7 @@ Strings sind die Positionen: 3,4,5,6
 
 ## curl:
 ```
-curl 'http://localhost:8080/api/newsletter/import' \
+curl 'http://localhost:8089/api/newsletter/import' \
   -H 'accept: application/json, text/plain, */*' \
   -H 'authorization: Basic YWRtaW46YWRtaW4=' \
   -H 'Content-Type: application/xml' \

